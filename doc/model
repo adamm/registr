@@ -4,6 +4,7 @@ id
 username
 password
 email
+cell
 balance
 cc_num
 cc_exp
