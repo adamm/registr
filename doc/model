@@ -1,0 +1,19 @@
+users         registrations      events
+--------      -------------      -------------
+id            id                 id
+username      user_id            date
+password      event_id           time_start
+email         name               time_stop
+balance       position           location
+cc_num        comments           teacher_id
+cc_exp                           total_spaces
+cc_cve                           description
+                                 cost
+history       waitlist
+--------      -------------
+id            id
+user_id       user_id
+event_id      event_id
+type          name
+amount        order
+
